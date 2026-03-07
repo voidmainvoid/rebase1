@@ -6,4 +6,3 @@ text from master
 
 --------------------------
 
-ezt kell majd revertálni
